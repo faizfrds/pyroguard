@@ -1,4 +1,4 @@
-# PyroGuard AI 🔥🇮🇩
+# PyroGuard 🔥🇮🇩
 **Real-Time Tropical Peatland & Wildfire Risk Intelligence System for Indonesia**
 
 PyroGuard AI is an autonomous, multi-sensor geospatial platform built for disaster managers, forestry authorities, and concession operators. It monitors real-time fuel moisture, tracks NASA thermal anomalies, and forecasts 14-to-30-day wildfire vulnerabilities across Indonesian tropical peatlands and forest zones (e.g., Central Kalimantan, Riau, South Sumatra).
